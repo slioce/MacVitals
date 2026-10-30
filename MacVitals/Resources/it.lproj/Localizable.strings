@@ -1,0 +1,30 @@
+/* Readings */
+"Memory" = "Memoria";
+"Used" = "Usata";
+"Available" = "Disponibile";
+"File cache" = "Cache dei file";
+"Compressed" = "Compressa";
+"Swap" = "Swap";
+"Pressure" = "Pressione";
+"Normal" = "Normale";
+"Warning" = "Attenzione";
+"Critical" = "Critica";
+"CPU" = "CPU";
+"Usage" = "Uso";
+"Load 1/5/15 min" = "Carico 1/5/15 min";
+"Disk" = "Disco";
+"Free" = "Libero";
+"Memory by app" = "Memoria per app";
+"1 process" = "1 processo";
+"%lld processes" = "%lld processi";
+
+/* Actions and settings */
+"Open Activity Monitor" = "Apri Monitoraggio Attività";
+"Settings" = "Impostazioni";
+"Show in Menu Bar" = "Mostra nella barra dei menu";
+"Refresh Every" = "Aggiorna ogni";
+"%lld seconds" = "%lld secondi";
+"Launch at Login" = "Apri al login";
+"About MacVitals" = "Informazioni su MacVitals";
+"Quit MacVitals" = "Esci da MacVitals";
+"Free software under the GNU General Public License v3." = "Software libero sotto licenza GNU General Public License v3.";
